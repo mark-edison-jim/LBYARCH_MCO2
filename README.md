@@ -1,6 +1,6 @@
 ## Group members:
-## Robee Feliciano
-## Mark Jim
+- Robee Feliciano
+- Mark Jim
 
 # C-Program calls Assembly Kernel
 
