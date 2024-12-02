@@ -1,3 +1,7 @@
+## Group members:
+## Robee Feliciano
+## Mark Jim
+
 # C-Program calls Assembly Kernel
 
 ### The kernels of both programs calculates the distances between the coordinate points across two vectors with the formula:
